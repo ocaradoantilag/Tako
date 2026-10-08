@@ -1,6 +1,6 @@
 # Política de Privacidade — Tako
 
-**Última atualização:** [08/10/2026]
+**Última atualização:** 08/10/2026
 
 Esta Política de Privacidade descreve como o Tako coleta, utiliza, armazena e protege informações relacionadas aos seus usuários.
 
@@ -23,7 +23,7 @@ Entre seus recursos podem estar incluídos:
 - avaliações e curtidas;
 - recursos sociais;
 - sincronização de progresso;
-- integração opcional com serviços externos, incluindo o MyAnimeList.
+- integração opcional com serviços externos, incluindo MyAnimeList e AniList.
 
 Os recursos disponíveis podem ser modificados, adicionados ou removidos ao longo do desenvolvimento e funcionamento do aplicativo.
 
@@ -68,13 +68,17 @@ Quando determinados recursos estiverem disponíveis, o usuário poderá fornecer
 - avaliações;
 - outras informações inseridas voluntariamente no aplicativo.
 
-### 2.4. Integração com MyAnimeList
+### 2.4. Integração com MyAnimeList e AniList
 
-Caso o usuário escolha conectar sua conta do MyAnimeList ao Tako, poderão ser processadas informações disponibilizadas pelo próprio MyAnimeList mediante autorização do usuário.
+Caso o usuário escolha conectar sua conta do MyAnimeList ou utilizar recursos de integração com o AniList, poderão ser processadas informações disponibilizadas por esses serviços mediante autorização ou utilização da respectiva integração.
 
-Isso poderá incluir informações relacionadas à lista de animes e ao progresso de episódios.
+Essas informações poderão incluir dados relacionados à lista de animes, status de acompanhamento, progresso de episódios e outras informações disponibilizadas pelas respectivas plataformas para as funcionalidades autorizadas.
 
-A integração é opcional e não é necessária para utilizar todos os recursos do Tako.
+A integração com MyAnimeList e AniList é opcional e não é necessária para utilizar todos os recursos do Tako.
+
+O Tako não recebe nem armazena senhas das contas do MyAnimeList ou AniList.
+
+MyAnimeList e AniList são serviços independentes e possuem suas próprias políticas de privacidade e termos de uso.
 
 ---
 
@@ -118,22 +122,25 @@ O uso dos serviços do Google também está sujeito às políticas e termos pró
 
 ---
 
-## 6. Integração com MyAnimeList
+## 6. Integração com MyAnimeList e AniList
 
-O Tako poderá oferecer uma integração opcional com o MyAnimeList.
+O Tako poderá oferecer integrações opcionais com o MyAnimeList e o AniList.
 
-Quando o usuário escolher utilizar esse recurso, será direcionado ao processo de autorização disponibilizado pelo próprio MyAnimeList.
+Quando o usuário escolher utilizar uma dessas integrações, poderá ser direcionado ao processo de autorização disponibilizado pelo respectivo serviço.
 
-O Tako somente deverá acessar as informações permitidas pelo processo de autorização.
+O Tako somente deverá acessar as informações permitidas pelo processo de autorização ou disponibilizadas pela integração correspondente.
 
-A integração poderá ser utilizada para recursos como:
+Essas integrações poderão ser utilizadas para recursos como:
 
 - consulta da lista do usuário;
 - sincronização de progresso;
 - acompanhamento de animes;
-- outras funcionalidades compatíveis com as permissões disponibilizadas pelo MyAnimeList.
+- identificação de animes acompanhados;
+- outras funcionalidades compatíveis com as permissões disponibilizadas pelas respectivas plataformas.
 
-O MyAnimeList é um serviço independente e possui sua própria Política de Privacidade e seus próprios Termos de Uso.
+MyAnimeList e AniList são serviços independentes e possuem suas próprias Políticas de Privacidade e Termos de Uso.
+
+O Tako não controla as práticas de privacidade, disponibilidade ou funcionamento desses serviços.
 
 ---
 
@@ -162,6 +169,7 @@ Esses serviços podem incluir, conforme as funcionalidades disponíveis:
 - Google;
 - Firebase;
 - MyAnimeList;
+- AniList;
 - Cloudflare;
 - serviços de hospedagem;
 - serviços de armazenamento;
