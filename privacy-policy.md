@@ -1,6 +1,6 @@
 # Política de Privacidade — Tako
 
-**Última atualização:** [DATA]
+**Última atualização:** [08/10/2026]
 
 Esta Política de Privacidade descreve como o Tako coleta, utiliza, armazena e protege informações relacionadas aos seus usuários.
 
